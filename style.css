@@ -1,0 +1,37 @@
+td{
+    /* border: 1px solid black; */
+    text-align: center;
+    font-size: 12px;
+    
+}
+.pink{
+    background-color: rgb(154, 103, 154);
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+ .skyblue {
+background-color:rgb(14, 148, 148);
+}
+.Purple{
+    background-color: pink;
+}
+.brown{
+    background-color: burlywood;
+}
+.darkpink{
+    background-color: palevioletred;
+}
+.Cream{
+    background-color: rgb(201, 182, 97);
+}
+.green{
+    background-color: rgb(91, 152, 91);
+}
+
